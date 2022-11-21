@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Simple Trello',
-    imgURL: '',
+    imgURL: '/assets/simple-trello.png',
     imgAlt: 'Simple Trello',
     stack: ['React', 'Redux'],
     link: 'https://rusakov-trello.netlify.app/',
