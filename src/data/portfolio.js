@@ -5,6 +5,7 @@ export default [
     imgAlt: 'Simple Trello',
     stack: ['React', 'Redux'],
     link: 'https://rusakov-trello.netlify.app/',
+    id: 'simple-trello',
   },
   {
     title: 'Personal Portfolio',
@@ -12,6 +13,7 @@ export default [
     imgAlt: 'Personal Portfolio',
     stack: ['React', 'Tailwind', 'Vite'],
     link: 'https://rusakov-portfolio.netlify.app/',
+    id: 'personal-portfolio',
   },
   {
     title: 'Next.js Blog',
@@ -19,5 +21,6 @@ export default [
     imgAlt: 'Next.js Blog',
     stack: ['React', 'Next.js', 'Firebase'],
     link: 'https://rusakov-next-blog.netlify.app/',
+    id: 'next-blog',
   },
 ];
