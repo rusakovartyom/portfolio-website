@@ -1,5 +1,5 @@
 import Intro from "../Intro";
-import Portfolio from "../Portfolio/Portfolio";
+import Portfolio from "../Portfolio";
 
 const App = () => {
   return (
