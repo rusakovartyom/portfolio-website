@@ -1,6 +1,11 @@
+import Intro from "../Intro";
+
 const App = () => {
   return (
-    <div></div>
+    <div>
+      <Intro />
+      <Portfolio />
+    </div>
   );
 };
 export default App
