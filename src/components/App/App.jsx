@@ -1,5 +1,4 @@
 import Intro from "../Intro";
-
 const App = () => {
   return (
     <div>
