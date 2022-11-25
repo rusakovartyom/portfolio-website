@@ -17,10 +17,10 @@ export default [
   },
   {
     title: 'Next.js Blog',
-    imgURL: '',
+    imgURL: '/assets/next-blog.png',
     imgAlt: 'Next.js Blog',
     stack: ['React', 'Next.js', 'Firebase'],
-    link: 'https://rusakov-next-blog.netlify.app/',
+    link: 'https://rusakov-next-blog.vercel.app/',
     id: 'next-blog',
   },
 ];
