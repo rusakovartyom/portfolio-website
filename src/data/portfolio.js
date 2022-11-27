@@ -8,7 +8,7 @@ export default [
     id: 'simple-trello',
   },
   {
-    title: 'Portfolio Website',
+    title: 'Portfolio Website (GitHub)',
     imgURL: '/assets/github.svg',
     imgAlt: 'Personal Portfolio',
     stack: ['React', 'Tailwind', 'Vite'],
