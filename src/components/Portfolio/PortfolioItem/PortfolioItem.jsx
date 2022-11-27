@@ -1,6 +1,11 @@
 const PortfolioItem = ({ title, imgURL, imgAlt, stack, link }) => {
   return (
-    <div className="transition delay-150 border-2 border-neutral-900 dark:border-neutral-100 rounded-md overflow-hidden">
+    <a
+      className="transition delay-150 border-2 border-neutral-900 dark:border-neutral-100 rounded-md overflow-hidden"
+      href={link}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
       <img
         className="w-full h-36 md:h-48 object-cover cursor-pointer"
         src={imgURL}
@@ -21,7 +26,7 @@ const PortfolioItem = ({ title, imgURL, imgAlt, stack, link }) => {
           ))}
         </p>
       </div>
-    </div>
+    </a>
   );
 };
 export default PortfolioItem;
