@@ -1,8 +1,8 @@
 const Footer = () => {
     return (
-        <div className="py-5 text-center">
+        <footer className="py-5 text-center">
             <p className="text-sm mt-2 opacity-50">&copy; { new Date().getFullYear() } Rusakov Artyom. All rights reserved.</p>
-        </div>
+        </footer>
     );
 };
 export default Footer;

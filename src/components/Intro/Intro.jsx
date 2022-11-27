@@ -1,6 +1,6 @@
 const Intro = () => {
   return (
-    <div className=" flex items-center justify-center flex-col text-center pt-20 pb-5">
+    <header className=" flex items-center justify-center flex-col text-center pt-20 pb-5">
       <h1 className="transition delay-150 text-4xl md:text-5xl text-neutral-900 dark:text-neutral-100 pt-5 pb-2 font-bold">
         Rusakov Artyom
       </h1>
@@ -15,7 +15,7 @@ const Intro = () => {
         Welcome to my portfolio website. I built it with React, Tailwind CSS and
         Vite.
       </p>
-    </div>
+    </header>
   );
 };
 export default Intro;
