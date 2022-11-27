@@ -8,11 +8,11 @@ export default [
     id: 'simple-trello',
   },
   {
-    title: 'Personal Portfolio',
-    imgURL: '',
+    title: 'Portfolio Website',
+    imgURL: '/assets/github.svg',
     imgAlt: 'Personal Portfolio',
     stack: ['React', 'Tailwind', 'Vite'],
-    link: 'https://rusakov-portfolio.netlify.app/',
+    link: 'https://github.com/rusakovartyom/portfolio-website',
     id: 'personal-portfolio',
   },
   {
