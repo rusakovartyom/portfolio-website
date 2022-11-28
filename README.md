@@ -11,9 +11,9 @@ It was a great opportunity to try out Vite (as an alternative to Create React Ap
 
 This project was built with:
 
-- [React.js](https://reactjs.org), to make this app modular, scalable and simple for adding future features
+- [React.js](https://reactjs.org), to make this website modular, scalable and simple for adding future features
 - [Tailwind CSS](https://tailwindcss.com/), to deal with CSS in a rapid manner right from the markup
-- [Vite](https://vitejs.dev/), as an experiment. I've been using Create React App for most of my pet projects, I was curious to learn about this alternative. 
+- [Vite](https://vitejs.dev/), as an experiment. I've been using Create React App for most of my pet projects, I was curious to learn about this alternative
 
 Also:
 
